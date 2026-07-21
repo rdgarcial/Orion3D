@@ -1,0 +1,1 @@
+export function LoadingScreen(){return <div style={{position:"absolute",inset:0,display:"flex",justifyContent:"center",alignItems:"center",color:"white"}}>Loading assets...</div>;}

@@ -1,0 +1,1 @@
+export class GLTFLoaderService{async load(url:string){return {type:"gltf",url};}}

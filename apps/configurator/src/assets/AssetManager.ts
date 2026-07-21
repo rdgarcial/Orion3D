@@ -1,0 +1,1 @@
+export class AssetManager{async load(url:string){console.log("Loading",url);return {url};}}

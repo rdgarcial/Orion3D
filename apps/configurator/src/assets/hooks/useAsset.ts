@@ -1,0 +1,1 @@
+import {useEffect} from "react"; export function useAsset(url:string){useEffect(()=>{console.log(url)},[url]);}

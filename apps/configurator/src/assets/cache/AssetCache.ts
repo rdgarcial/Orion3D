@@ -1,0 +1,1 @@
+export class AssetCache{private cache=new Map<string,unknown>();set(k:string,v:unknown){this.cache.set(k,v)}get(k:string){return this.cache.get(k)}}
