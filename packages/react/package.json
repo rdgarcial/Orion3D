@@ -1,0 +1,11 @@
+{
+  "name":"@orion/react",
+  "version":"0.1.0",
+  "type":"module",
+  "peerDependencies":{
+    "react":"^19",
+    "@react-three/fiber":"^9",
+    "@orion/core":"workspace:*",
+    "@orion/renderer":"workspace:*"
+  }
+}
