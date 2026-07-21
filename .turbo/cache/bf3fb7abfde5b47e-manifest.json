@@ -1,0 +1,31 @@
+{
+    "files": {
+        "apps/configurator/dist": { "size": 0, "mtime_nanos": 0, "mode": 0, "is_dir": true },
+        "apps/configurator/dist/assets/index-DPofSMg5.js": {
+            "size": 1057679,
+            "mtime_nanos": 1784610276175109200,
+            "mode": 420,
+            "is_dir": false
+        },
+        "apps/configurator/dist/index.html": {
+            "size": 139,
+            "mtime_nanos": 1784610276164220500,
+            "mode": 420,
+            "is_dir": false
+        },
+        "apps/configurator/dist/assets": { "size": 0, "mtime_nanos": 0, "mode": 0, "is_dir": true },
+        "apps/configurator/.turbo/turbo-build.log": {
+            "size": 782,
+            "mtime_nanos": 1784610276663891200,
+            "mode": 420,
+            "is_dir": false
+        }
+    },
+    "order": [
+        "apps/configurator/.turbo/turbo-build.log",
+        "apps/configurator/dist",
+        "apps/configurator/dist/assets",
+        "apps/configurator/dist/assets/index-DPofSMg5.js",
+        "apps/configurator/dist/index.html"
+    ]
+}
