@@ -1,0 +1,6 @@
+{
+  "name":"@orion/materials",
+  "version":"0.1.0",
+  "type":"module",
+  "peerDependencies":{"three":"^0.180.0"}
+}

@@ -1,0 +1,6 @@
+{
+  "name":"@orion/animation",
+  "version":"0.1.0",
+  "type":"module",
+  "peerDependencies":{"gsap":"^3.13.0"}
+}
