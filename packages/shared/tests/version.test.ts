@@ -1,0 +1,1 @@
+import {expect,test} from "vitest"; import {ORION_VERSION} from "../src"; test("version",()=>expect(ORION_VERSION).toBe("0.1.0"));
